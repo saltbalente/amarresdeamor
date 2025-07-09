@@ -1,0 +1,21 @@
+<svg width="100%" height="100%" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <g opacity="0.18">
+    <!-- Pentagrama -->
+    <polygon points="100,60 112,95 150,95 118,115 130,150 100,125 70,150 82,115 50,95 88,95" stroke="#d4af37" stroke-width="3" fill="none"/>
+    <!-- Ojo -->
+    <ellipse cx="250" cy="100" rx="38" ry="22" stroke="#d4af37" stroke-width="3" fill="none"/>
+    <ellipse cx="250" cy="100" rx="10" ry="10" fill="#d4af37"/>
+    <!-- Triángulo con círculo -->
+    <polygon points="350,60 390,140 310,140" stroke="#d4af37" stroke-width="3" fill="none"/>
+    <circle cx="350" cy="113" r="18" stroke="#d4af37" stroke-width="2" fill="none"/>
+    <!-- Mano mística -->
+    <path d="M470,140 Q475,110 480,140 Q485,110 490,140 Q495,120 500,140 Q505,130 510,140" stroke="#d4af37" stroke-width="3" fill="none"/>
+    <!-- Luna creciente -->
+    <path d="M600,100 A30,30 0 1,1 570,70" stroke="#d4af37" stroke-width="3" fill="none"/>
+    <path d="M590,100 A20,20 0 1,0 570,80" stroke="#fff8be" stroke-width="2" fill="none"/>
+    <!-- Rayo -->
+    <polyline points="700,60 720,100 710,100 730,140" stroke="#d4af37" stroke-width="3" fill="none"/>
+    <!-- Estrella -->
+    <polygon points="750,120 755,135 770,135 758,145 763,160 750,150 737,160 742,145 730,135 745,135" stroke="#d4af37" stroke-width="2" fill="none"/>
+  </g>
+</svg> 
