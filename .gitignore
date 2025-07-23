@@ -1,0 +1,56 @@
+# Archivos del sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Dependencias y directorios de node
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+package-lock.json
+
+# Archivos de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Directorios de construcción/distribución
+/dist
+/build
+/out
+/.next
+
+# Archivos de registro
+*.log
+logs
+
+# Archivos de IDE y editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.sublime*
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Archivos grandes de medios que no deberían estar en Git
+*.mp4
+*.mov
+*.avi
+*.wmv
+*.flv
+*.webm
+*.mkv
+
+# Archivos de configuración local
+.vercel
